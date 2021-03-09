@@ -1,0 +1,12 @@
+.btn-x {
+    border: 0;
+    width: 5%;
+    background: #6777ef;
+    color: #fff;
+    border-bottom-right-radius: 15px;
+    cursor: pointer;
+}
+.btn-close-var {
+    position: absolute;
+    right: 2%;
+}
